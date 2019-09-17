@@ -11,6 +11,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "axios": "^0.18.0",
+    "crypto-js": "^3.1.9-1",
     "react-router-dom": "^4.3.1",
     "react-simplified": "^1.5.2"
   },
